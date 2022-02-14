@@ -1,3 +1,5 @@
+<div id="top"></div>
+
 [![MIT License][license-shield]][license-url]
 
 <!-- PROJECT  -->
@@ -49,14 +51,15 @@ Now, use your client code to make a request to get a JWT from the sample backend
 
 ## License
 
-This library is released under the [3-clause BSD License](LICENSE.txt).
+This library is released under the [MIT License](LICENSE.txt).
 
 ## Support
 
-Our developer support team is here to help you. Find out more information on our [Help Center](https://help.virgilsecurity.com/).
 
-You can find us on [Twitter](https://twitter.com/VirgilSecurity) or send us email support@VirgilSecurity.com.
+Said Issaoui - [LinkedIn](https://www.linkedin.com/in/said-issaoui-55095315b/)
 
-Also, get extra help from our support team on [Slack](https://virgilsecurity.com/join-community).
+Project Link: [Api Backend](https://github.com/saidIssaoui/api_promoted)
+
+<!-- MARKDOWN LINKS & IMAGES -->
 [license-shield]: https://img.shields.io/github/license/saidIssaoui/api_promoted.svg
 [license-url]: https://github.com/saidIssaoui/api_promoted/blob/main/LICENSE.txt
