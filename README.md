@@ -1,4 +1,6 @@
 [![MIT License][license-shield]][license-url]
+
+<!-- PROJECT  -->
 # Employee Manager Backend 
 
 This repository contains a sample backend code for my flutter application [Employee manager](https://github.com/saidIssaoui/flutter_employe_manager)
@@ -56,5 +58,5 @@ Our developer support team is here to help you. Find out more information on our
 You can find us on [Twitter](https://twitter.com/VirgilSecurity) or send us email support@VirgilSecurity.com.
 
 Also, get extra help from our support team on [Slack](https://virgilsecurity.com/join-community).
-[license-shield]: https://github.com/saidIssaoui/api_promoted.svg
+[license-shield]: https://img.shields.io/github/license/saidIssaoui/api_promoted.svg
 [license-url]: https://github.com/saidIssaoui/api_promoted/blob/main/LICENSE.txt
