@@ -27,7 +27,7 @@ firebase login firebase init
 Clone the repository from GitHub.
 
 ```sh
-git clone https://github.com/saidIssaoui/api_promoted.git
+git clone https://github.com/saidIssaoui/api_employee-manager.git
 ```
 
 ### Copy functions folder to your firebase api folder
